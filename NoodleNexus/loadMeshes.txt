@@ -1,0 +1,4 @@
+assets/models/Flat_Plane_xyz_N_uv.ply
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+assets/models/low_poly_tree_xyz_N_uv.ply
+assets/models/toy_soldier_xyz_N_uv.ply

@@ -1,0 +1,34 @@
+SkySphere
+Position - x: 87.0529 y: 0.427768 z: -54.3446
+Rotation - x: 0 y: 0 z: 0
+Scale - 1
+
+Ground
+Position - x: 0.0 y: -10 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 10.0
+
+Player
+Position - x: 0.0 y: 7.4 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.1
+
+Enemy1
+Position - x: 100.0 y: 7.4 z: 100.0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.1
+
+Enemy2
+Position - x: 100.0 y: 7.4 z: -100.0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.1
+
+Enemy3
+Position - x: -100.0 y: 7.4 z: 100.0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.1
+
+Enemy4
+Position - x: -100.0 y: 7.4 z: -100.0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.1

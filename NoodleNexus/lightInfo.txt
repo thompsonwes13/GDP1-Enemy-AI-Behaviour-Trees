@@ -1,0 +1,80 @@
+Light 1 Point ON
+x: 0 y: 32.4405 z: 0
+Linear: 0.426733 Quadratic: 2.50071e-06
+
+Light 2 Point OFF
+x: 88.7 y: 8 z: 1
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 3 Point OFF
+x: 90.5 y: 8 z: -1.5
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 4 Point OFF
+x: 90.5 y: 8 z: 1.5
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 5 Point OFF
+x: 91.4 y: 8 z: 0
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 6 Point OFF
+x: 28.7 y: 8 z: -1
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 7 Point OFF
+x: 28.7 y: 8 z: 1
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 8 Point OFF
+x: 30.5 y: 8 z: -1.5
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 9 Point OFF
+x: 30.5 y: 8 z: 1.5
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 10 Point OFF
+x: 31.4 y: 8 z: 0
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 11 Point OFF
+x: 88.7 y: 8 z: -41
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 12 Point OFF
+x: 88.7 y: 8 z: -39
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 13 Point OFF
+x: 90.5 y: 8 z: -41.5
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 14 Point OFF
+x: 90.5 y: 8 z: -38.5
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 15 Point OFF
+x: 91.4 y: 8 z: -40
+Linear: 3.9388 Quadratic: 1.67684e-06
+
+Light 16 Point OFF
+x: -2 y: 8 z: 2.5
+Linear: 1.80743 Quadratic: 0.0399465
+
+Light 17 Point OFF
+x: 87.5 y: 8 z: -52
+Linear: 1.80743 Quadratic: 0.0399465
+
+Light 18 Spot OFF
+x: -5 y: 7 z: 3
+Linear: 1.09794 Quadratic: 0.0101721
+
+Light 19 Spot OFF
+x: 87.18 y: 7 z: -55
+Linear: 1.09794 Quadratic: 0.0101721
+
+Light 20 Directional ON
+x: 0 y: 0 z: 0
+Linear: 0.1 Quadratic: 0.01
+

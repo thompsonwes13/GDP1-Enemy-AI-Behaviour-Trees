@@ -1,0 +1,48 @@
+Name: SkySphere
+Path: assets/models/Sphere_radius_1_xyz_N_uv.ply
+isWireFrame: false
+Colour: 255 255 255
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Ground
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: grass_texture.bmp 0.25
+
+Name: Player
+Path: assets/models/toy_soldier_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: green_square.bmp 1.0
+
+Name: Enemy1
+Path: assets/models/toy_soldier_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: red_square.bmp 1.0
+
+Name: Enemy2
+Path: assets/models/toy_soldier_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: blue_square.bmp 1.0
+
+Name: Enemy3
+Path: assets/models/toy_soldier_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: yellow_square.bmp 1.0
+
+Name: Enemy4
+Path: assets/models/toy_soldier_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: purple_square.bmp 1.0
